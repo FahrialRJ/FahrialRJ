@@ -9,7 +9,7 @@
 ### 🚀 About Me
 
 - 🧠 Currently pursuing my bachelor's degree in **Informatics Engineering**
-- 📱 Passionate about **Mobile & Web Development**, **AI/ML**, **Networking**, **Cybersecurity**, and **Statistical Modeling**
+- 📱 Passionate about **Mobile & Web Development**, **AI/ML**, **Networking**, and **Cybersecurity**
 - 🛠️ I build apps, analyze data, and experiment with intelligent systems
 - ✍️ I also enjoy explaining technical concepts in a human-friendly way
 
